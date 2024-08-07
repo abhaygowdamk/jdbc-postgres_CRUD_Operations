@@ -28,7 +28,7 @@ Clone the repository:
 ## Configuration
 1. pom.xml Configuration
 
-If you are using Maven to manage your project dependencies, add the PostgreSQL JDBC dependency in your pom.xml file:
+If you are using Maven Project to manage your project dependencies, add the PostgreSQL JDBC dependency in your pom.xml file:
 
 <dependency>
 
